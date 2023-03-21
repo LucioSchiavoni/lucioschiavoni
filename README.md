@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucio</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Lucio a passionate Fullstack developer</h3>
 
 - 🔭 I’m currently working on **Next Fullstack and Web3 projects**
 
