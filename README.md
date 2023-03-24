@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next Fullstack and Web3 projects**
 
-- 🌱 I’m currently learning **Bash, Web3 and Haskell.**
+- 🌱 I’m currently learning **Bash, Web3 and NextJs.**
 
 - 📫 How to reach me **luciosc1798@gmail.com**
 
