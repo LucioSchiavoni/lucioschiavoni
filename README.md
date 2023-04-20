@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm Lucio a passionate Fullstack developer</h3>
 
-- 🔭 I’m currently working on **Next Fullstack and Web3 projects**
+- 🔭 I’m currently working on **Next Fullstack projects**
 
-- 🌱 I’m currently learning **Bash, Web3 and NextJs.**
+- 🌱 I’m currently learning **Web3, Solidity and Haskell.**
 
 - 📫 How to reach me **luciosc1798@gmail.com**
 
