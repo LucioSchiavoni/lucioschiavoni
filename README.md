@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next Fullstack projects**
 
-- 🌱 I’m currently learning **Web3, Solidity and Haskell.**
+- 🌱 I’m currently learning **Web3, Solidity and Typescript.**
 
 - 📫 How to reach me **luciosc1798@gmail.com**
 
