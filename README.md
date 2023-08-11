@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **luciosc1798@gmail.com**
 
