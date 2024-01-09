@@ -3,7 +3,8 @@
 
 <h4 align="center"> 📫 How to reach me :</h4>
 <br/>
-bash ``
+
+   ```bash
 luciosc1798@gmail.com
 
 
